@@ -2,7 +2,9 @@
 layout: home
 title: Georeferencing.org
 description: Everything you need to get to the point
-background: # /assets/theme/images/chuttersnap-146799-unsplash.jpg
+background:
+  img: /assets/images/Antique_digital-art-old-map-with-terrain-locations_freepik.jpg
+  by: Freepik.com
 permalink: /
 ---
 
