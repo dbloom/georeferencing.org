@@ -1,8 +1,8 @@
 ---
 title: About
 background:
-  img: # /assets/images/3Dskull_recononscreen_scaled.jpg
-  by: # Sharlene Santana ©
+  img: /assets/images/Pin_geojango-maps-Z8UgB80_46w-unsplash.jpg
+  by: Unsplash.com
 permalink: /about/
 toc: false
 ---
