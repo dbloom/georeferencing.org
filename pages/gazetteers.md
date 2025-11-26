@@ -2,7 +2,7 @@
 title: Gazetteers
 background:
   img: //assets/images/Multimap_annie-spratt-AFB6S2kibuk-unsplash.jpg
-  by: Image courtesy of Freepik.com
+  by: Freepik.com
 permalink: /gazetteers/
 toc: true
 ---
