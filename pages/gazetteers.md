@@ -25,7 +25,6 @@ Want to recommend gazetteers or mapping resources for this page? Find a broken l
 - [Natural Resources Canada Geographic Names](https://natural-resources.canada.ca/maps-tools-publications/maps/geographical-names-canada/geographical-names-canada){:target="_blank"}
 
 ## Regional Gazetteers
-- [SUBMIT YOUR APPLICATION](https://forms.gle/YQnwF8Lcf4wvg4UdA){:target="_blank"}
 - [Acme Mapper](https://mapper.acme.com/){:target="_blank"}
 - [Mappy](https://en.mappy.com/){:target="_blank"} (Europe)
 - [Natural Resources Data, Maps & Tools Directory](https://natural-resources.canada.ca/maps-tools-publications){:target="_blank"} (Canada)
