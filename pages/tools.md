@@ -2,8 +2,8 @@
 title: Georeferencing Tools
 description: 
 background:
-  img: # /assets/images/McLean_handlens.jpeg
-  by: # Bryan McLean ©
+  img: /assets/images/Cyprus_flat-lay-travel-set-with-map-camera_freepik.jpg
+  by: Image courtesy of Freepik.com
 permalink: /tools/
 toc: true
 ---
