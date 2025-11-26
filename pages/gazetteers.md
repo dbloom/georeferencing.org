@@ -4,7 +4,7 @@ background:
   img: //assets/images/Multimap_annie-spratt-AFB6S2kibuk-unsplash.jpg
   by: Freepik.com
 permalink: /gazetteers/
-height: 75vh
+height:  75vh
 toc: true
 ---
 Want to recommend gazetteers or mapping resources for this page? Find a broken link? [Contact us](){:target="_blank"}.
