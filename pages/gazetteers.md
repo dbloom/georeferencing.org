@@ -1,8 +1,8 @@
 ---
 title: Gazetteers
 background:
-  img: # /assets/images/3Dskull_recononscreen_scaled.jpg
-  by: # Sharlene Santana ©
+  img: //assets/images/Multimap_annie-spratt-AFB6S2kibuk-unsplash.jpg
+  by: Image courtesy of Freepik.com
 permalink: /gazetteers/
 toc: true
 ---
