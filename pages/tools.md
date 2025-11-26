@@ -3,7 +3,7 @@ title: Georeferencing Tools
 description: 
 background:
   img: /assets/images/Cyprus_flat-lay-travel-set-with-map-camera_freepik.jpg
-  by: Image courtesy of Freepik.com
+  by: Freepik.com
 permalink: /tools/
 toc: true
 ---
