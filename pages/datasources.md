@@ -1,8 +1,8 @@
 ---
 title: Data Sources
 background:
-  img: # /assets/images/3Dskull_recononscreen_scaled.jpg
-  by: # Sharlene Santana ©
+  img: /assets/images/Munchen_map-4755691_1280_Sthlmsabbe_Pixabay.jpg
+  by: Sthlmsabbe via Pixabay.com
 permalink: /datasources/
 toc: true
 ---
