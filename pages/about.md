@@ -13,7 +13,7 @@ Georeferencing.org is a community-driven resource dedicated to
 - helping georeferencers find the tools and resources they need, and,
 - allowing members of the georeferencing community to support each other by sharing resources for others to use.
 
-Georeferencing.org is the brain-child of VertNet and iDigBio's Georefrencing Working Group. After more than a decade of developing and facilitating georeferencing workshops all around the world, we recognized that offereing a single public respository for as many georeferencing resources as we could find would be a welcome service and benefit to the broad community.
+Georeferencing.org is the brain-child of VertNet (h/t to HerpNET!) and iDigBio's Georefrencing Working Group. After more than a decade of developing and facilitating georeferencing workshops all around the world, we recognized that offereing a single public respository for as many georeferencing resources as we could find would be a welcome service and benefit to the broad community.
 
 If you have resources to add to contribute share, a workshop or educational opportunity you want people to know about, or just want to report a broken link, please contact us/contact/ so we can keep this site as current as possible.
 
