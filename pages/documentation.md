@@ -4,7 +4,7 @@ title: Best Practices, Guides and Instruction Manuals
 description: 
 background:
   img: /assets/images/MediMap_map-1434486_1280_Couleur_Pixabay.jpg
-  by: Couleur via Pixabay.com
+  by:  Couleur via Pixabay.com
 permalink: /documentation/
 ---
 
