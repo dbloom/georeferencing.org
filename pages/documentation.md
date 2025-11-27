@@ -3,12 +3,12 @@ layout: home
 title: Best Practices, Guides and Instruction Manuals
 description: 
 background:
-  img: # assets/images/Macrotus_waterhousii_3D_muscles_lateral.jpg
-  by: # Sharlene Santana ©
+  img: /assets/images/MediMap_map-1434486_1280_Couleur_Pixabay.jpg
+  by: Couleur via Pixabay.com
 permalink: /documentation/
 ---
 
-## Core documentation
+## Core Documentation
 
 **[Georeferencing Best Practices](https://docs.gbif.org/georeferencing-best-practices/1.0/en/){:target="_blank"}**
   - **Citation:** Arthur D. Chapman & John R. Wieczorek (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
