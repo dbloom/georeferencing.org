@@ -1,12 +1,12 @@
 ---
 title: Training Resources
 background:
-  img: #/assets/images/3Dskull_recononscreen_scaled.jpg
-  by: # Sharlene Santana ©
+  img: /assets/images/Topo_4098452.jpg
+  by: Freepik.com
 permalink: /training/
 toc: true
 ---
-Want to recommend training resources for this page or promote a workshop? Find a broken link? [Contact us](){:target="_blank"}.
+Want to promote a workshop or recommend training resources for this page? Find a broken link? [Contact us](){:target="_blank"}.
 
 ## Online Resources
 - [VertNet Resources](https://www.vertnet.org/resources/georef/){:target="_blank"}
