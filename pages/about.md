@@ -1,5 +1,5 @@
 ---
-title: About
+title: All About Us (You)
 background:
   img: /assets/images/Pin_geojango-maps-Z8UgB80_46w-unsplash.jpg
   by: Unsplash.com
