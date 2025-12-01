@@ -7,7 +7,7 @@ permalink: /gazetteers/
 height:  75vh
 toc: true
 ---
-Want to recommend gazetteers or mapping resources for this page? Find a broken link? [Contact us](){:target="_blank"}.
+Want to recommend gazetteers or mapping resources for this page? Find a broken link? [Contact us](https://forms.gle/qCGaDSXjt5Y5TeFu8){:target="_blank"}.
 
 ## Mapping Gazatteers
 - [GEOLocate](https://www.geo-locate.org/){:target="_blank"}
