@@ -6,7 +6,7 @@ background:
 permalink: /training/
 toc: true
 ---
-Want to promote a workshop or recommend training resources for this page? Find a broken link? [Contact us](){:target="_blank"}.
+Want to promote a workshop or recommend training resources for this page? Find a broken link? [contact us](https://forms.gle/qCGaDSXjt5Y5TeFu8){:target="_blank"}.
 
 ## Online Resources
 - [VertNet Resources](https://www.vertnet.org/resources/georef/){:target="_blank"}
