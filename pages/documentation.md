@@ -26,4 +26,4 @@ permalink: /documentation/
   - **Citation:** Arthur D. Chapman (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10.
   - [PDF Version](https://docs.gbif.org/sensitive-species-best-practices/master/en/current-best-practices-for-generalizing-sensitive-species-occurrence-data.en.pdf){:target="_blank"}
 
-Want to recommend documentation or publications for this page? Find a broken link? [Contact us](){:target="_blank"}.
+Want to recommend documentation or publications for this page? Find a broken link? [Contact us](https://forms.gle/qCGaDSXjt5Y5TeFu8){:target="_blank"}.
