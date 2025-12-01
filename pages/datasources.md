@@ -6,7 +6,7 @@ background:
 permalink: /datasources/
 toc: true
 ---
-Want to recommend data sources for this page? Find a broken link? [contact us](https://forms.gle/qCGaDSXjt5Y5TeFu8){:target="_blank"}.
+Want to recommend data sources for this page? Find a broken link? [Contact us](https://forms.gle/qCGaDSXjt5Y5TeFu8){:target="_blank"}.
 
 ## Area-Specific Sources
 - [Canadensys](https://www.canadensys.net/){:target="_blank"}
