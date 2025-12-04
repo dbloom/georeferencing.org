@@ -9,6 +9,9 @@ toc: true
 ---
 Want to recommend tools for this page? Find a broken link? [Contact us](https://forms.gle/qCGaDSXjt5Y5TeFu8){:target="_blank"}.
 
+## Calculators
+- [Georeferencing Calculator]({{ '/calculator/' | relative_url }}){:target="_blank"}
+
 ## Converstion Tools
 - [Canadensys Coordinate Conversion (DDMMSS to Decimal Degrees)](https://data.canadensys.net/tools/coordinates){:target="_blank"}
 - [Jeep GPS Coordinate Conversion](https://www.jeepreviews.com/wireless-gps-coordinates/){:target="_blank"}
@@ -21,9 +24,6 @@ Want to recommend tools for this page? Find a broken link? [Contact us](https://
 - [JR Screen Ruler](https://www.ruler.info/en/static-ruler){:target="_blank"}
 - [ArcGIS Lat-Long Finder](https://www.arcgis.com/apps/Viewer/index.html?appid=8919c0bd5d0a4a419c121022fd411d5f){:target="_blank"}
 - [UTM Grid Zones of the World](https://www.dmap.co.uk/utmworld.htm){:target="_blank"}
-
-## Calculators
-- [Georeferencing Calculator]({{ '/calculator/' | relative_url }}){:target="_blank"}
 
 ## GIS Tools
 - [uDig Desktop Internet GIS](http://udig.refractions.net/){:target="_blank"}
