@@ -21,7 +21,7 @@ logo: assets/logos/Georef_Logo_Transparent.png
 colors:
   links: "#FBA534"  # Default #84a8bd
   banner: "#7a9a8e"  # Default #96a493
-  footer: "#d89c2d"  # Default #566571
+  footer: "#FBA534"  # Default #566571; previous #d89c2d
 font_serif: true
 rounded_corners: true
 
