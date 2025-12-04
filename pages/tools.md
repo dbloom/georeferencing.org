@@ -23,7 +23,7 @@ Want to recommend tools for this page? Find a broken link? [Contact us](https://
 - [UTM Grid Zones of the World](https://www.dmap.co.uk/utmworld.htm){:target="_blank"}
 
 ## Calculators
-- [Georeferencing Calculator](){:target="_blank"}
+- [Georeferencing Calculator]({{ '/calculator/' | relative_url }}){:target="_blank"}
 
 ## GIS Tools
 - [uDig Desktop Internet GIS](http://udig.refractions.net/){:target="_blank"}
