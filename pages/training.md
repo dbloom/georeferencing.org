@@ -18,3 +18,7 @@ Want to promote a workshop or recommend training resources for this page? Find a
 ## Upcoming Trainings
 
 - A work in progress
+
+## Past Trainings
+
+- A work in progress
