@@ -19,6 +19,6 @@ Want to promote a workshop or recommend training resources for this page? Find a
 
 - A work in progress
 
-## On-going and Past Trainings
+## On-going & Past Trainings
 
 - [California Academy of Sciences Georeferencing Project](https://georeferencing.org/training/2026-03-05-CAS/)
