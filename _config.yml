@@ -30,6 +30,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 exclude:
   - README.md
   - Gemfile
