@@ -26,7 +26,6 @@ Want to recommend tools for this page? Find a broken link? [Contact us](https://
 ## Measurement Tools
 
 - [JR Screen Ruler](https://www.ruler.info/en/static-ruler)
-- [ArcGIS Lat-Long Finder](https://www.arcgis.com/apps/Viewer/index.html?appid=8919c0bd5d0a4a419c121022fd411d5f)
 - [UTM Grid Zones of the World](https://www.dmap.co.uk/utmworld.htm)
 
 ## GIS Tools
