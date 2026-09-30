@@ -17,7 +17,7 @@ Want to promote a workshop or recommend training resources for this page? Find a
 
 ## Upcoming Trainings
 
-- A work in progress
+- [October 8-11, 2026, Notes from Nature Georeferencing Events](https://georeferencing.org/training/upcoming/) (4 events)
 
 ## On-going & Past Trainings
 
