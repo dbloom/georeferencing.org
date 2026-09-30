@@ -4,7 +4,7 @@ description: "Opportunities for skill building and more"
 background:
   img: /assets/images/Topo_4098452.jpg
   by: Freepik.com
-permalink: /training/2026-03-05-CAS/
+permalink: /training/upcoming/
 toc: true
 ---
 ## Notes from Nature - Georeferencing Events - October 8-11, 2026
