@@ -21,4 +21,4 @@ Want to promote a workshop or recommend training resources for this page? Find a
 
 ## On-going & Past Trainings
 
-- [California Academy of Sciences Georeferencing Project](https://georeferencing.org/training/2026-03-05-CAS/)
+- [California Academy of Sciences Georeferencing Project, 2025-26](https://georeferencing.org/training/2026-03-05-CAS/)
