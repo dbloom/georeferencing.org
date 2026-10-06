@@ -9,6 +9,7 @@ toc: false
 ---
 ## Notes from Nature Georeferencing Events, October 8-11, 2026
 ![](/assets/docs/Georef_NfN_WeDigBio_Oct_2026_smaller.jpg)
+[Register Here](https://georeferencing.org/training/2026-10-NfN/)
 
 <a href="/assets/docs/Georef_NfN_WeDigBio_Oct_2026_smaller.pdf" download>PDF Version</a>
 
